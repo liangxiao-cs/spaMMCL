@@ -20,7 +20,7 @@ class spaMMCL():
         self.dataset = dataset
         self.name = name
         self.path = path
-
+    # It is recommended to give priority to using the version with images (MML.py). If there are no images, use the version without images (MML_without_img.py).
     def run_MML(self):
         print("Running MML")
         print("n_clusters:", self.n_clusters)
