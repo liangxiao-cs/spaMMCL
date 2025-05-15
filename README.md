@@ -15,6 +15,9 @@ For training spaMMCL model, run
 
 'python spaMMCL.py'
 
+## NOTE
+It is recommended to give priority to using the version with images. If there are no images, use the version without images.
 
 ## Citation
 Liang et al. A multi-modality and multi-granularity collaborative learning framework for identifying spatial domains and spatially variable genes. Bioinformatics, 2024, 40(10): btae607
+
